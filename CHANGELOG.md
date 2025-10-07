@@ -1,5 +1,22 @@
 # ember-cli Changelog
 
+## Release (2025-10-07)
+
+* ember-cli 6.8.0-beta.4 (minor)
+* @ember-tooling/classic-build-addon-blueprint 6.8.0-beta.2 (minor)
+* @ember-tooling/classic-build-app-blueprint 6.8.0-beta.2 (minor)
+
+#### :rocket: Enhancement
+* `ember-cli`, `@ember-tooling/classic-build-addon-blueprint`, `@ember-tooling/classic-build-app-blueprint`
+  * [#10831](https://github.com/ember-cli/ember-cli/pull/10831) [bugfix beta] enable `--strict` by default to match new app blueprint ([@mansona](https://github.com/mansona))
+
+#### :house: Internal
+* `ember-cli`
+  * [#10833](https://github.com/ember-cli/ember-cli/pull/10833) [bugfix beta] bump the @ember/app-blueprint version ([@mansona](https://github.com/mansona))
+
+#### Committers: 1
+- Chris Manson ([@mansona](https://github.com/mansona))
+
 ## Release (2025-10-03)
 
 * ember-cli 6.8.0-beta.3 (patch)
